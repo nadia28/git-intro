@@ -1,2 +1,3 @@
 The tiger jumped over the stone.
 Then gorilla found banana.
+The gorilla ate banana.
